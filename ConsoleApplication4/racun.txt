@@ -1,18 +1,2 @@
 Racun: 
-Kava
- 	 8 kn 
-Bijela kava
- 	 8 kn 
-Kapucino
- 	 9 kn 
-Instant kava
- 	 9 kn 
-Kava + kola
- 	 14 kn 
-Kava + senzacija
- 	 11 kn 
-Domace Pivo
- 	 12 kn 
-Pivo 0,5
- 	 15 kn 
-Ukupno: 	 86 kn 
+Ukupno: 	 0 kn 
