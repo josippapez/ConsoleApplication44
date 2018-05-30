@@ -1,4 +1,3 @@
-Kava
 Bijela kava
 Kapucino
 Instant kava
@@ -6,3 +5,4 @@ Gazirani sok 0,1
 Gazirani sok
 Instan napitak
 Mineralna 0,25
+Kava
